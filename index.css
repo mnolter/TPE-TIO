@@ -12,7 +12,7 @@
         "nav"
         "main"
         "footer";
-    font-family: 'Linux Libertine','Georgia','Times',serif;
+    font-family: 'Linux Libertine','Georgia','Times',serif,'Arial','calibri';
 
 }
 .Contenedor header {
@@ -65,13 +65,13 @@ p{
     }
     .Contenedor nav {
         grid-area: nav;
-        background-color: #333;
+        background-color: red;
         margin: 0;
         padding: 0;
     }
     .Contenedor main {
         grid-area: main;
-        background-color: #666;
+        background-color: red;
         margin: 0;
         padding: 0;
     }
