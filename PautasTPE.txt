@@ -1,7 +1,7 @@
 Pautas de trabajo:
-1:Pactar una hora en comùn para poder trabajar en conjunto  
-2:Asignar las tareas entre los integrantes del grupo 
-3:Notificar los push para que cada integrante actualice su directorio
-4:Realizar una puesta en comun entre los integrantes 
-5:Una vez finalizado el tpe, realizar el informe
-6:Realizar la entrega de el trabajo 
+1.Pactar una hora en comùn para poder trabajar en conjunto  
+2.Asignar las tareas entre los integrantes del grupo 
+3.Notificar los push para que cada integrante actualice su directorio
+4.Realizar una puesta en comun entre los integrantes 
+5.Una vez finalizado el tpe, realizar el informe
+6.Realizar la entrega de el trabajo 
