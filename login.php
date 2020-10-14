@@ -79,6 +79,3 @@ p.error {
     padding: 2px 10px;
 }
  
-p.error {
-    background: orangered;
-}
