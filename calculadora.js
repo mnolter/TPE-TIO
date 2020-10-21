@@ -40,7 +40,7 @@ window.onload = function(){ //Acciones tras cargar la página
              xi=1; //inicializar pantalla.
              }	
     function igualar() {
-             if (op=="no") { //no hay ninguna operación pendiente.
+             if (op=="si") { //no hay ninguna operación pendiente.
                 pantalla.innerHTML=x;	//mostramos el mismo número
                 }
              else { //con operación pendiente resolvemos
@@ -107,18 +107,18 @@ window.onload = function(){ //Acciones tras cargar la página
                 numero(p); //enviar para mostrar en pantalla
                 }	
              //Teclas del teclado númerico. Seguimos el mismo procedimiento que en el anterior.
-             if (k>95 && k<106) {
-                p=k-96;
+             if (k>98 && k<108) {
+                p=k-98;
                 p=String(p);
                 numero(p);
                 }
              if (k==110 || k==190) {numero(".")} //teclas de coma decimal
              if (k==106) {operar('*')} //tecla multiplicación
-             if (k==107) {operar('+')} //tecla suma
+             if (k==108) {operar('+')} //tecla suma
              if (k==109) {operar('-')} //tecla resta
-             if (k==111) {operar('/')} //tecla división
-             if (k==32 || k==13) {igualar()} //Tecla igual: intro o barra espaciadora
-             if (k==46) {borradoTotal()} //Tecla borrado total: "supr"
+             if (k==118) {operar('/')} //tecla división
+             if (k==38 || k==13) {igualar()} //Tecla igual: intro o barra espaciadora
+             if (k==48) {borradoTotal()} //Tecla borrado total: "supr"
              if (k==8) {retro()} //Retroceso en escritura : tecla retroceso.
              if (k==36) {borradoParcial()} //Tecla borrado parcial: tecla de inicio.
              }
