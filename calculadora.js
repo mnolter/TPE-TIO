@@ -6,7 +6,7 @@ window.onload = function(){ //Acciones tras cargar la página
     xi=1; //iniciar número en pantalla: 1=si; 0=no;
     coma=0; //estado coma decimal 0=no, 1=si;
     ni=0; //número oculto o en espera.
-    op="no"; //operación en curso; "no" =  sin operación.
+    op="no"; //operación en curso; "no" = 
     
     //mostrar número en pantalla según se va escribiendo:
     function numero(xx) { //recoge el número pulsado en el argumento.
