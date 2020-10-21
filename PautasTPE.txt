@@ -5,5 +5,6 @@ Pautas de trabajo:
 3.Notificar los push para que cada integrante actualice su directorio
 4.Realizar una puesta en comun entre los integrantes 
 5.Una vez finalizado el tpe, comenzar con el borrador del informe
-6. Hacer la version final del informe 
+6.Hacer la version final del informe 
 7.Realizar la entrega de el trabajo 
+
