@@ -173,8 +173,8 @@ function editar_fila(event) {
     })
 
 }
-function EnviarTres(){
-    for (let i = 0; i < 3; i++) {
+function EnviarCinco(){
+    for (let i = 0; i < 5; i++) {
         EnviarSkin();
     }
 
