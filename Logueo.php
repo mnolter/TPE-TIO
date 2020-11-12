@@ -72,7 +72,7 @@ button {
  
 p.success,
 p.error {
-    color: white;
+    color: red;
     font-family: lato;
     background: yellowgreen;
     display: inline-block;
